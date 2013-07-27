@@ -1,0 +1,2 @@
+Solid=["Bismuth","Blank"]
+d=[1,0]

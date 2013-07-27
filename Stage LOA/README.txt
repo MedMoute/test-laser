@@ -1,0 +1,1 @@
+This MATLAB script's purpose is to compute the behaviour of a solid in response to an ultrashort laser pulse.
